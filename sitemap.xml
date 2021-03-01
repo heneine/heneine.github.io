@@ -4,12 +4,22 @@
 
     <sitemap>
         <loc>https://blog.henesys.in/post-sitemap.xml</loc>
-        <lastmod>2020-11-08T04:20:08.940Z</lastmod>
+        <lastmod>2021-03-01T05:36:53.797Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://blog.henesys.in/page-sitemap.xml</loc>
         <lastmod>2020-11-08T04:16:59.401Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://blog.henesys.in/category-sitemap.xml</loc>
+        <lastmod>2021-03-01T05:32:35.239Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://blog.henesys.in/tag-sitemap.xml</loc>
+        <lastmod>2021-03-01T05:32:35.239Z</lastmod>
     </sitemap>
 
 </sitemapindex>
