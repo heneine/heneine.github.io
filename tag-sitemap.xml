@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://blog.henesys.in/tags/%EC%A7%80%EA%B0%81/</loc>
+        <lastmod>2021-03-04T05:00:19.109Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.henesys.in/tags/%EC%96%B4%EC%A7%80%EB%9F%AC%EC%9B%80/</loc>
+        <lastmod>2021-03-04T05:00:19.109Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.henesys.in/tags/%EC%83%9D%EC%9D%BC/</loc>
+        <lastmod>2021-03-04T05:00:15.598Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://blog.henesys.in/tags/%EA%B0%9C%EA%B0%95/</loc>
         <lastmod>2021-03-01T05:32:35.239Z</lastmod>
         <changefreq>weekly</changefreq>
