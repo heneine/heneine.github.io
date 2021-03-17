@@ -3,23 +3,8 @@
 
 
     <sitemap>
-        <loc>https://blog.henesys.in/post-sitemap.xml</loc>
-        <lastmod>2021-03-06T05:03:52.709Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>https://blog.henesys.in/page-sitemap.xml</loc>
         <lastmod>2020-11-08T04:16:59.401Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://blog.henesys.in/category-sitemap.xml</loc>
-        <lastmod>2021-03-06T05:03:52.709Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://blog.henesys.in/tag-sitemap.xml</loc>
-        <lastmod>2021-03-06T05:03:50.412Z</lastmod>
     </sitemap>
 
 </sitemapindex>
